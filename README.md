@@ -1,2 +1,2 @@
-# bankaccount-api
-Software Process and Project Management Assignment by Siwat Ponpued 6110546640
+# BANKACCOUNT-API ASSIGNMENT
+by Siwat Ponpued 6110546640
