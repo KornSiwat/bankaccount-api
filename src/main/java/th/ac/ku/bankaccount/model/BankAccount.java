@@ -48,6 +48,14 @@ public class BankAccount {
         this.balance = balance;
     }
 
+    public void deposit(double amount) {
+        this.setBalance(getBalance() + amount);
+    }
+
+    public void withdraw(double amount) {
+        this.setBalance(getBalance() - amount);
+    }
+
     @Override
     public String toString() {
         return "BankAccount{" +
